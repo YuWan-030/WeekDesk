@@ -1,4 +1,4 @@
-# WeekDesk 0.1.4.4
+# WeekDesk 0.1.4.5
 
 ## 更新内容
 
@@ -10,8 +10,8 @@
 
 ## 安装包
 
-请将 `E:\WeekDesk\release\WeekDesk Setup 0.1.4.4.exe` 上传到 GitHub Release 附件。
+请将 `E:\WeekDesk\release\WeekDesk Setup 0.1.4.5.exe` 上传到 GitHub Release 附件。
 
 建议 Release Tag：
 
-`v0.1.4.4`
+`v0.1.4.5`
